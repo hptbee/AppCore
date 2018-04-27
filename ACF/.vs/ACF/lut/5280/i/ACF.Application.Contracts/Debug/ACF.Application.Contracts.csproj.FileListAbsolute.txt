@@ -1,0 +1,7 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Contracts\bin\Debug\ACF.Application.Contracts.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Contracts\bin\Debug\ACF.Application.Contracts.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Contracts\Debug\ACF.Application.Contracts.csprojResolveAssemblyReference.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Contracts\Debug\ACF.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Contracts\Debug\ACF.Application.Contracts.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Contracts\Debug\ACF.Application.Contracts.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Contracts\Debug\ACF.Application.Contracts.pdb

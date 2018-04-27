@@ -1,0 +1,7 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Infrastructure.SQLContext\bin\Debug\ACF.Infrastructure.SQLContext.dll.config
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Infrastructure.SQLContext\bin\Debug\ACF.Infrastructure.SQLContext.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Infrastructure.SQLContext\bin\Debug\ACF.Infrastructure.SQLContext.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Infrastructure.SQLContext\Debug\ACF.Infrastructure.SQLContext.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Infrastructure.SQLContext\Debug\ACF.Infrastructure.SQLContext.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Infrastructure.SQLContext\Debug\ACF.Infrastructure.SQLContext.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Infrastructure.SQLContext\Debug\ACF.Infrastructure.SQLContext.pdb

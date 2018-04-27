@@ -1,0 +1,11 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API.Tests\bin\Debug\ACF.DistributedServices.API.Tests.dll.config
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API.Tests\bin\Debug\ACF.DistributedServices.API.Tests.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API.Tests\bin\Debug\ACF.DistributedServices.API.Tests.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API.Tests\Debug\ACF.DistributedServices.API.Tests.csprojResolveAssemblyReference.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API.Tests\Debug\ACF.DistributedServices.API.Tests.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API.Tests\Debug\ACF.DistributedServices.API.Tests.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API.Tests\Debug\ACF.DistributedServices.API.Tests.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API.Tests\Debug\ACF.DistributedServices.API.Tests.pdb

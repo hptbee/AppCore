@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="1.2.0" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.2.0" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="7.0.4-IR-191" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ACF.Infrastructure.Core\ACF.Infrastructure.Core.csproj" />
+    <ProjectReference Include="..\ACF.Infrastructure.MySQLContext\ACF.Infrastructure.MySQLContext.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

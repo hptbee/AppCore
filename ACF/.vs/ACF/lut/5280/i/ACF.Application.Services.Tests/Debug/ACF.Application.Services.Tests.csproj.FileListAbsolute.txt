@@ -1,0 +1,10 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services.Tests\bin\Debug\ACF.Application.Services.Tests.dll.config
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services.Tests\bin\Debug\ACF.Application.Services.Tests.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services.Tests\bin\Debug\ACF.Application.Services.Tests.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services.Tests\Debug\ACF.Application.Services.Tests.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services.Tests\Debug\ACF.Application.Services.Tests.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services.Tests\Debug\ACF.Application.Services.Tests.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services.Tests\Debug\ACF.Application.Services.Tests.pdb

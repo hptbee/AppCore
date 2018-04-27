@@ -2,7 +2,12 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
+using System.Xml;
+using log4net;
+using log4net.Config;
+using log4net.Repository.Hierarchy;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -14,6 +19,11 @@ namespace ACF.DistributedServices.API
     {
         public static void Main(string[] args)
         {
+            XmlDocument log4netConfig = new XmlDocument();
+            log4netConfig.Load(File.OpenRead("log4net.config"));
+            var repo = LogManager.CreateRepository(Assembly.GetEntryAssembly(), typeof(Hierarchy));
+            XmlConfigurator.Configure(repo, log4netConfig["log4net"]);
+
             BuildWebHost(args).Run();
         }
 

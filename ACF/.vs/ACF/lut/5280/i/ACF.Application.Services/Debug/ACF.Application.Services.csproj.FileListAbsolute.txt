@@ -1,0 +1,8 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services\bin\Debug\ACF.Application.Services.dll.config
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services\bin\Debug\ACF.Application.Services.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Application.Services\bin\Debug\ACF.Application.Services.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services\Debug\ACF.Application.Services.csprojResolveAssemblyReference.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services\Debug\ACF.Application.Services.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services\Debug\ACF.Application.Services.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services\Debug\ACF.Application.Services.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Application.Services\Debug\ACF.Application.Services.pdb

@@ -1,0 +1,7 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Domain.Persistance\bin\Debug\ACF.Domain.Persistance.dll.config
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Domain.Persistance\bin\Debug\ACF.Domain.Persistance.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.Domain.Persistance\bin\Debug\ACF.Domain.Persistance.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Domain.Persistance\Debug\ACF.Domain.Persistance.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Domain.Persistance\Debug\ACF.Domain.Persistance.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Domain.Persistance\Debug\ACF.Domain.Persistance.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.Domain.Persistance\Debug\ACF.Domain.Persistance.pdb

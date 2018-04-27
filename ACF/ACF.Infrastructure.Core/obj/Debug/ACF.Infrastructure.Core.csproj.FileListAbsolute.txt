@@ -1,0 +1,17 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\ACF.Infrastructure.Core.dll.config
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\ACF.Infrastructure.Core.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\ACF.Infrastructure.Core.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\Autofac.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\EntityFramework.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\log4net.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\Autofac.xml
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\EntityFramework.xml
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\log4net.xml
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\obj\Debug\ACF.Infrastructure.Core.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\obj\Debug\ACF.Infrastructure.Core.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\obj\Debug\ACF.Infrastructure.Core.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\ACF.Infrastructure.Core\obj\Debug\ACF.Infrastructure.Core.pdb

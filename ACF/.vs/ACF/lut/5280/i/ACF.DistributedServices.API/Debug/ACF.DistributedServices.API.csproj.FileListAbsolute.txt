@@ -1,0 +1,8 @@
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API\bin\ACF.DistributedServices.API.dll.config
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API\bin\ACF.DistributedServices.API.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\b\ACF.DistributedServices.API\bin\ACF.DistributedServices.API.pdb
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API\Debug\ACF.DistributedServices.API.csprojResolveAssemblyReference.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API\Debug\ACF.DistributedServices.API.csproj.CoreCompileInputs.cache
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API\Debug\ACF.DistributedServices.API.csproj.CopyComplete
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API\Debug\ACF.DistributedServices.API.dll
+D:\Project\ACF\Artifacts\SourceCode\ACF\.vs\ACF\lut\0\i\ACF.DistributedServices.API\Debug\ACF.DistributedServices.API.pdb
