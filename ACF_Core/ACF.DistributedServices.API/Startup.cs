@@ -1,4 +1,5 @@
 ﻿using ACF.Application.Services;
+using ACF.DistributedServices.API.Configuration;
 using ACF.Domain.Persistance;
 using ACF.Infrastructure.MySQLContext;
 using Microsoft.AspNetCore.Builder;
@@ -6,9 +7,12 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
+using Microsoft.Extensions.WebEncoders;
 using Newtonsoft.Json.Serialization;
 using Swashbuckle.AspNetCore.Swagger;
 using System.IO;
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
 
 namespace ACF.DistributedServices.API
 {
@@ -27,16 +31,19 @@ namespace ACF.DistributedServices.API
             ACFDomainBootstrapper.Bootstrap(services);
             ACFApplicationServicesBootstrapper.Bootstrap(services);
             SecurityConfiguration.ConfigureOAuth(Configuration, services);
+            AutoMapperConfiguration.Configure(services);
+
+            services.Configure<WebEncoderOptions>(options =>
+            {
+                options.TextEncoderSettings = new TextEncoderSettings(UnicodeRanges.All);
+            });
 
             services.AddSingleton<IFileProvider>(new PhysicalFileProvider(
                    Path.Combine(Directory.GetCurrentDirectory(), "wwwroot")));
 
             services.AddMvc()
                 .AddJsonOptions(options => options.SerializerSettings.ContractResolver = new DefaultContractResolver());
-
-            // ===== Add MVC ========
-            services.AddMvc();
-
+            
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Info { Title = "ACF API", Version = "v1" });
@@ -53,7 +60,6 @@ namespace ACF.DistributedServices.API
                 app.UseDeveloperExceptionPage();
             }
 
-            // ===== Use Authentication ======
             app.UseAuthentication();
 
             // Enable middleware to serve generated Swagger as a JSON endpoint.

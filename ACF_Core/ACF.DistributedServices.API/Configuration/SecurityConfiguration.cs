@@ -1,12 +1,12 @@
-﻿using ACF.Infrastructure.Core.Helpers;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.IdentityModel.Tokens.Jwt;
+using System.Text;
 
-namespace ACF.DistributedServices.API
+namespace ACF.DistributedServices.API.Configuration
 {
     public static class SecurityConfiguration
     {
@@ -31,9 +31,9 @@ namespace ACF.DistributedServices.API
                     cfg.SaveToken = true;
                     cfg.TokenValidationParameters = new TokenValidationParameters
                     {
-                        ValidIssuer = ConfigurationHelper.GetJwtIssuer(),
-                        ValidAudience = ConfigurationHelper.GetJwtIssuer(),
-                        IssuerSigningKey = new SymmetricSecurityKey(ConfigurationHelper.GetJwtKey()),
+                        ValidIssuer = configuration["JwtIssuer"],
+                        ValidAudience = configuration["JwtIssuer"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["JwtKey"])),
                         ClockSkew = TimeSpan.Zero // remove delay of token when expire
                     };
                 });

@@ -27,6 +27,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ACF.Application.Contracts\ACF.Application.Contracts.csproj" />
     <ProjectReference Include="..\ACF.Application.Services\ACF.Application.Services.csproj" />
+    <ProjectReference Include="..\ACF.Domain.Persistance\ACF.Domain.Persistance.csproj" />
     <ProjectReference Include="..\ACF.Infrastructure.MySQLContext\ACF.Infrastructure.MySQLContext.csproj" />
   </ItemGroup>
 

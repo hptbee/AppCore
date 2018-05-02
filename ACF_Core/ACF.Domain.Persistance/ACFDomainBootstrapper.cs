@@ -10,8 +10,8 @@ namespace ACF.Domain.Persistance
     {
         public static void Bootstrap(IServiceCollection services)
         {
-            OtherRegistration(services);
             RegisterIdentity(services);
+            OtherRegistration(services);
             RegisterRepositories(services);
         }
 
@@ -22,8 +22,8 @@ namespace ACF.Domain.Persistance
 
         private static void OtherRegistration(IServiceCollection services)
         {
-            services.AddTransient<IACFUnitOfWorkFactory, ACFUnitOfWorkFactory>();
-            services.AddTransient<IACFUnitOfWork, ACFUnitOfWork>();
+            //services.AddTransient<IACFUnitOfWorkFactory, ACFUnitOfWorkFactory>();
+            //services.AddTransient<IACFUnitOfWork, ACFUnitOfWork>();
         }
 
         private static void RegisterIdentity(IServiceCollection services)

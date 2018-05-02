@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.IO;
+using System.Text;
 
 namespace ACF.Infrastructure.Core.Helpers
 {
@@ -9,6 +11,10 @@ namespace ACF.Infrastructure.Core.Helpers
 
         public const string DEFAULT_CONFIG_FILE = "appsettings.json";
         public const string KEY_DEFAULT_CONNECTION_STRING = "ConnectionStrings:DefaultConnection";
+
+        public const string KEY_JWT_ISSUER = "JwtIssuer";
+        public const string KEY_JWT_KEY = "JwtKey";
+        public const string KEY_JWT_EXPIRE_IN_MINUTES = "JwtExpireInMinutes";
 
         #endregion Constants
         #region Members
@@ -24,7 +30,7 @@ namespace ACF.Infrastructure.Core.Helpers
         }
 
         #endregion Constructors
-        #region Methods
+        #region Generic Methods
 
         public static IConfigurationRoot LoadConfigFile(string configFile)
         {
@@ -45,12 +51,30 @@ namespace ACF.Infrastructure.Core.Helpers
         {
             return int.Parse(GetConfigValue(configKey));
         }
-        
+
+        #endregion Generic Methods
+        #region Get-Config Methods
+
         public static string GetDefaultConnectionConfig()
         {
             return GetConfigValue(KEY_DEFAULT_CONNECTION_STRING);
         }
 
-        #endregion Methods
+        public static string GetJwtIssuer()
+        {
+            return GetConfigValue(KEY_JWT_ISSUER);
+        }
+
+        public static double GetJwtExpireInMinutes()
+        {
+            return Convert.ToDouble(GetConfigValue(KEY_JWT_EXPIRE_IN_MINUTES));
+        }
+
+        public static byte[] GetJwtKey()
+        {
+            return Encoding.UTF8.GetBytes(GetConfigValue(KEY_JWT_KEY));
+        }
+
+        #endregion Get-Config Methods
     }
 }
